@@ -5,7 +5,7 @@
     <string name="qemu_version" translatable="false">qemu-8.2.1-3dfx</string>
     <string name="str_home">الرئيسية</string>
     <string name="str_logger">السجل</string>
-    <string name="fab_info">بدء التقليد</string>
+    <string name="fab_info">بدء المحاكاة</string>
     <!-- logger -->
     <string name="startvm">تم بدء الآلة الإفتراضية!</string>
     <string name="stopvm">تم إيقاف الإفتراضية!</string>
